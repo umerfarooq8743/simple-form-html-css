@@ -1,0 +1,34 @@
+.first{
+    text-align: center;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#002db3;
+}
+.second{background-color:#9933ff;
+    color: white;
+    margin: auto;
+    height: 1050px;
+    width: 1400px;
+    
+
+}
+.third{
+
+    text-align: center;
+   
+
+}
+.fourth{
+line-height: 80%;
+ text-align: center;
+}
+h2{color:  #00b33c;
+    font-size:35px;
+
+}h3{color: #9933ff;
+    font-size:25px;
+
+}h4{color: #002db3;
+    font-size:30px;
+}
